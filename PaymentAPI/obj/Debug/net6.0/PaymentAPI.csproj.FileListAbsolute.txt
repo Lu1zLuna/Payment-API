@@ -46,3 +46,7 @@ C:\Users\Light\OneDrive - UNINTER - Aluno\Projetos\.NET\tech-test-payment-api\Pa
 C:\Users\Light\OneDrive - UNINTER - Aluno\Projetos\.NET\tech-test-payment-api\PaymentAPI\obj\Debug\net6.0\PaymentAPI.pdb
 C:\Users\Light\OneDrive - UNINTER - Aluno\Projetos\.NET\tech-test-payment-api\PaymentAPI\obj\Debug\net6.0\PaymentAPI.genruntimeconfig.cache
 C:\Users\Light\OneDrive - UNINTER - Aluno\Projetos\.NET\tech-test-payment-api\PaymentAPI\obj\Debug\net6.0\ref\PaymentAPI.dll
+C:\Users\Light\OneDrive - UNINTER - Aluno\Projetos\.NET\tech-test-payment-api\PaymentAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Light\OneDrive - UNINTER - Aluno\Projetos\.NET\tech-test-payment-api\PaymentAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Light\OneDrive - UNINTER - Aluno\Projetos\.NET\tech-test-payment-api\PaymentAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Light\OneDrive - UNINTER - Aluno\Projetos\.NET\tech-test-payment-api\PaymentAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
