@@ -9,7 +9,7 @@ using PaymentAPI.Models.Enums;
 namespace PaymentAPI.Controllers;
 
 [ApiController]
-[Route("api/[controller]")]
+[Route("api-docs/[controller]")]
 public class VendaController : ControllerBase
 {
     private readonly DatabaseContext _context;
